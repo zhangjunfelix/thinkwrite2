@@ -29,7 +29,7 @@ By the end of Week 3, you can:
 ---
 
 ## 1) The Core: Topic Sentence → Support → (Optional) Conclusion
-- A **topic sentence** states the **topic** and the **controlling idea** (the specific angle you will develop). See the *gold* model for how a controlling idea narrows focus. *(Resource 1)*  
+- A **topic sentence** states the **topic** and the **controlling idea** (the specific angle you will develop). See the model paragraph of *Gold* for how a controlling idea narrows focus. *(Resource 1)*  
 - **Supporting sentences** explain or prove the topic sentence with concrete detail (e.g., “First of all… For example… Another…”). *(Resource 1)*  
 - A **concluding sentence** signals the end and reinforces the main point; avoid introducing new ideas. *(Resource 1)*
 
@@ -98,14 +98,19 @@ You can **combine** orders, but keep the pattern visible to the reader. *(Resour
 ---
 
 
-## In-class Output - Week 3
+
+
+
+## In-class Output I
 ### Paragraph Core Build (Topic Sentence • Unity • Basic Coherence)
 
 **Time:** 20–25 minutes  
 **Goal:** Produce one focused paragraph that demonstrates a clear **topic sentence + controlling idea**, **unity** (one main idea), and **basic coherence** (repeat key nouns; consistent pronouns).
 
-### Prompt (choose ONE angle)
-> **Campus study spaces** — Write about **one** controlling idea (e.g., *quiet*, *lighting*, *availability after 9 p.m.*, *seat reliability*).
+### Prompt 
+> In-class smartphone use 
+<!--Write about one controlling idea (e.g., attention/focus, note-taking quality, equity & access, emergency exceptions, learning engagement, policy feasibility/enforcement. -->
+
 
 ### Requirements
 - **Length:** 8–10 sentences (120–150 words).  
@@ -116,70 +121,79 @@ You can **combine** orders, but keep the pattern visible to the reader. *(Resour
   - **Repeat a key noun** (e.g., *the study space / the room*) at least **3** times.  
   - Use **consistent pronouns** for that noun (don’t switch referents).
 
-### Mark-up (on your page)
+### Mark-up
 - **Underline** your **TS**.  
 - **[Box]** the **controlling idea** (the phrase in the TS).  
-- **Bold** each repetition of your **key noun**.  
+- **Circle** each repetition of your **key noun**.  
 - *Italicize* pronouns that refer to it.  
 - Put **[brackets]** around any sentence you suspect is off-topic.
 
-### Sentence frames (optional)
-- **TS:** “This campus study space is effective because ___ and ___.”  
-- **Support:** “For example, ___.” / “In my experience, ___ at ___ (time/place).”  
-- **Tie-back:** “These details show that ___ (restate controlling idea).”
+### Sentence frames
+*TS:*
+- “In-class smartphone use should be limited because ___ and ___.”
+-	“Structured smartphone use (for ___) improves ___ and ___.”
+-	“A no-phone policy during lectures is justified because ___ and ___.”  
+
+*Support*:
+-	“For example, during ___ (course/week), students who used phones to ___ were able to ___.”
+-	“In my experience, at ___ on ___, phones led to ___ / prevented ___.”
+-	“According to ___ (policy/data/observation), ___.”      
+
+*Tie-back*:
+-	“These details show that [limited/structured/no-phone] smartphone use ___ by ___.”
+-	“Therefore, adopting a [limit/allow/ban] policy would ___.”
 
 ### Deliverable
-A clean paragraph with the required **mark-up** (paper or photo upload).
+A clean paragraph with the required **mark-up**.
 
-### Quick scoring (10 pts)
-- TS + controlling idea clear **(3)** • Specific support **(3)** • Unity **(2)** • Basic coherence **(2)**
-  
 
 
 ---
 
 
-## In-class Output - Week 4
-### Coherence & Support Workshop (Transitions • Order • Specifics)
+## In-class Output II
 
+### Coherence & Support Workshop (Transitions • Order • Specifics)
 **Time:** 25–30 minutes  
 **Goal:** Build a paragraph that uses **coherence signals** (transitions + logical order) and integrates **specific support** (statistic/example/short quote with a reporting verb).
 
-### Input (use these facts—don’t invent)
-- Gate counts show **+18%** library use **after 9 p.m.** last term.  
-- A quick poll of **52 students** found **55%** prefer reservable **study rooms**.  
-- Prof. Chen **“warns about noise bleed”** in open areas.  
-- The new learning center has **12** group rooms; average wait time **15 minutes** on weeknights.
+#### Topic: 
+**Is the shift to AI-powered customer service a net positive for consumers?**
 
-### Choose ONE organizational pattern
-- **Logical division of ideas** (e.g., *availability* + *noise control*)  
-- **Comparison/contrast** (e.g., *library open area* vs. *reservable rooms*)  
-- **Chronological/process** (e.g., *how to secure a reliable study spot after 9 p.m.*)
 
-### Requirements
-- **Length:** 9–11 sentences (140–170 words).  
-- **Transitions:** use **≥3** varied signals (e.g., *first*, *however*, *for example*, *as a result*, *therefore*).  
-- **Order:** keep a **clear, named pattern** (write it in the margin: *division* / *compare–contrast* / *chronological*).  
-- **Support:** include **≥1 statistic** (with number), **≥1 concrete example**, and **1 short integrated quote (≤10 words)** using a **reporting verb** (*notes / reports / warns / estimates*).  
+#### Sample Input 
+- A 2023 industry report found that **74%** of consumers have used a **chatbot** for pre-sales questions.
+- A study of **1,200 support tickets** showed **resolution time dropped by 33%** for simple issues handled by AI.
+- Tech analyst Lena Petrova **"questions the emotional intelligence"** of automated systems.
+- **47%** of users in a survey reported feeling **"frustrated"** by not reaching a human agent.
+
+#### Choose ONE organizational pattern
+- **Logical division of ideas** (e.g., *efficiency gains* + *user frustration*)
+- **Comparison/contrast** (e.g., *AI handling simple tasks* vs. *humans handling complex issues*)
+- **Chronological/process** (e.g., *a user's typical journey through an automated support system*)
+
+#### Requirements
+- **Length:** 9–11 sentences (140–170 words).
+- **Transitions:** use **≥3** varied signals (e.g., *first*, *however*, *for example*, *as a result*, *therefore*).
+- **Order:** keep a **clear, named pattern** (write it in the margin: *division* / *compare–contrast* / *chronological*).
+- **Support:** include **≥1 statistic** (with number), **≥1 concrete example**, and **1 short integrated quote (≤10 words)** using a **reporting verb** (*notes / reports / warns / estimates / questions*).
 - **Conclusion:** close the paragraph; **no new information**.
 
-### Mark-up (on your page)
-- **Highlight** each transition signal.  
-- Put **(DIV)** or **(C/C)** or **(CHRON)** at the end of the **TS** to label your pattern.  
-- **[Bracket]** each statistic/quote/example.  
+#### Mark-up
+- **Highlight** each transition signal.
+- Put **(DIV)** or **(C/C)** or **(CHRON)** at the end of the **TS** to label your pattern.
+- **[Bracket]** each statistic/quote/example.
 - Circle your **reporting verb**.
 
-### Sentence frames (optional)
-- **Compare/contrast:** “While ___ offers ___, ___ provides ___; however, ___.”  
-- **Division:** “The space is effective for two reasons: ___ and ___.”  
-- **Chronological:** “First, ___; next, ___; finally, ___, which results in ___.”  
-- **Quote integration:** “As Chen **warns**, ‘___,’ so ___.”
+#### Sentence frames (optional)
+- **Compare/contrast:** "While ___ excels at ___, it struggles with ___; in contrast, ___."
+- **Division:** "The impact of AI support is twofold: it offers ___ but also creates ___."
+- **Chronological:** "The process begins when ___; subsequently, the system ___, which often leads to ___."
+- **Quote integration:** "This aligns with Petrova, who **questions** '___,' suggesting that ___."
 
-### Deliverable
-One paragraph using the **given data**, with the required **mark-up** (paper or photo upload).
+#### Deliverable
+One paragraph using the **given data**, with the required **mark-up** .
 
-### Quick scoring (10 pts)
-- Clear order + transitions **(4)** • Correct, specific support **(4)** • Concluding sentence **(2)**
 
 
 
@@ -196,14 +210,5 @@ One paragraph using the **given data**, with the required **mark-up** (paper or 
 - **Support:** Specific examples, statistics, quotations **and** explicit explanation. *(Resource 3)*  
 - **Conclusion (if used):** Signals end; no new ideas. *(Resource 1)*
 
----
-
-## 🧪 Short Output (In class)
-Write one paragraph (8–10 sentences) on **“A study habit that actually works for me.”**  
-- **TS** with controlling idea;  
-- **≥3 specific supports** (example/number/quote);  
-- Use at least **2 coherence tools** (name them in the margin);  
-- **Optional** concluding sentence with a conclusion signal.  
-*(This mirrors Resource 1 drafting steps, Resource 2 coherence checks, and Resource 3 support integration.)*
 
 
