@@ -101,6 +101,66 @@ title = 'Exposition'
 | Cause & Effect     | “Phones hurt learning.”              | “In large lectures, frequent phone checks reduce focus by splitting attention and breaking note structure.” |
 | Comparison & Contrast | “Recorded vs. live classes differ.” | “Compared with live-only delivery, default recording improves exam review but preserves less spontaneous Q&A.” |
 
+---
+# Hook & Background Builder: Student Concise Notes  
+*For Expository Essay Introductions*  
+
+
+## Goal  
+Open with a clear hook → give brief background → end with a specific thesis (previews your explanation).  
+
+
+## 1. Expository Intro Structure (4 Parts)  
+| Part          | What to Do                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| Hook (1–2 sentences) | Grab attention (no long stories!). Use quote, statistic, description, etc.  |
+| Bridge (1 sentence)  | Link hook to your topic (name a “key noun,” e.g., “recorded lectures”).      |
+| Background (1–2 sentences) | Define vague terms + set scope (e.g., “for first-year courses”).            |
+| Thesis (final sentence) | State your focus + preview 2–3 points (e.g., “Recorded lectures improve prep via day-one access and repeatable steps”). |
+
+*Tone Tip:* Use precise words (e.g., “reduce delays”) not vague adjectives (e.g., “good”).  
+
+
+## 2. Key Skills & Fixes  
+- **Hook relevance:** If your hook is a full story, cut it to the detail that ties to your key noun.  
+- **Repeat key noun:** Mention it 2–3× (e.g., “recorded lectures” → “recordings”) to stay clear.  
+- **Add scope:** Limit to a group/time (e.g., “during Weeks 1–2,” “for large lectures”).  
+- **Define briefly:** Explain vague terms in 1 clause (e.g., “recorded = full video with slides, posted ≤24h”).  
+- **Avoid:** “In this essay I will…,” rhetorical questions as the thesis, off-topic hooks.  
+
+
+## 3. Hook Types (Choose 1)  
+| Hook Type       | When to Use                                  | Example Sentence                                  |
+|-----------------|-----------------------------------------------|---------------------------------------------------|
+| Quotation       | Authority/policy frames the topic             | “As the course policy states, ‘recordings post in 24h.’” |
+| Description     | Paint the situation you’ll explain            | “At midnight, the cursor pauses at the chain rule step.” |
+| Statistic       | Show scale/scope                              | “Last term, 62% of first-years used recordings for midterms.” |
+| Definition      | Clarify a key term                            | “A ‘recorded lecture’ is full video with slides posted in 24h.” |
+| Contrast        | Old vs. new conditions                        | “Before recordings, students used classmates’ notes; now they replay.” |
+| Mini-anecdote   | 1–2 sentence episode (no long stories!)       | “I missed Week 6 with the flu—replaying the lecture caught me up.” |
+
+
+## 4. Quick Peer-Check List  
+✅ Hook points to the key noun (1–2 sentences).  
+✅ Bridge connects hook to topic.  
+✅ Background clarifies scope/terms (≤2 sentences).  
+✅ Thesis is final, specific, and previews points.  
+✅ No vague words (e.g., “good” → “reduce delays”).  
+
+
+## 5. Practice: Fix Weak Bridges  
+1. **Hook:** “At 11:30 p.m., the playback bar pauses on the hardest proof.”  
+   *Weak Bridge:* “Students watch videos a lot.”  
+   *Strong Bridge:* “That pause is where **recorded lectures** turn a missing step into a repeatable explanation.”  
+
+2. **Hook:** “Last term, 30% of first-years missed lectures for illness.”  
+   *Weak Bridge:* “Absences are common.”  
+   *Strong Bridge:* “**Recordings** give students the same explanation they missed, keeping the weekly sequence intact.”
+
+
+
+---
+
 
 ## 5. Planning an Expository Essay (8 Steps)  
 1. Pick a focused topic (manageable scope).  
