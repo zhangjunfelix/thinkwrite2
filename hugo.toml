@@ -50,13 +50,14 @@ copyright = "Zhang Jun"
   weight = 7
 
 [[menu.main]]
-  name = "Logic"
-  url  = "/logic/"
+  name = "Argumentationskills"
+  url  = "/argumentationskills/"
   weight = 8
 
+
 [[menu.main]]
-  name = "Arguments"
-  url  = "/arguments/"
+  name = "Persuasion"
+  url  = "/persuasion/"
   weight = 9
 
 [[menu.main]]
