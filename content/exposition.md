@@ -262,3 +262,162 @@ Writing that uses **examples to support a point** (makes abstract ideas concrete
 
 ### Cause & Effect  
 ✅ Clear focus (causes/effects) ✅ Real links ✅ Specific details ✅ Logical order
+
+
+
+
+---
+
+
+
+
+## In-Class Writing 
+### Topic: Exposition (Illustration Mode) – *Unexpected Ways AI Shapes College Students’ Daily Learning—Beyond Homework Help*  
+## Duration: 2 Sessions × 45 mins = 90 mins  
+
+
+### 🎯 Class Goals  
+By the end of the two sessions, students will be able to:  
+1. Draft a structured expository essay (illustration mode) using 2 specific, personal examples of AI’s unexpected learning uses.  
+2. Apply the “Four Basics of Illustration” (clear main point, relevant examples, specific details, logical order). 
+3. Write coherent introductory, body, and concluding paragraphs with polished key sentences (thesis, topic sentences).  
+
+
+### 📚 Core Course Materials Reference  
+- **Illustration Basics**: “Four Basics of Illustration”  
+- **Essay Structure**: Intro (hook→background→thesis) + Body + Conclusion   
+- **Key Sentences**: Thesis writing skills (specificity, measurable verbs) ; Topic sentences (general claim + controlling idea)   
+
+
+### Session 1: Outline Building & Body Paragraph Drafting  
+
+#### Step 1: Warm-Up & Topic Recap   
+#### 1.1 Engagement Hook  
+Ask 2-3 students to share 1 “unexpected AI use” they’ve experienced in learning (e.g., “AI transcribes my professor’s fast lectures”). 
+
+#### 1.2 Recap Key Concepts  
+- Remind students: This is an **illustration expository essay**—it requires using **specific examples** to explain *how* AI enhances learning (not just list AI tools) .  
+- Highlight the “Four Basics of Illustration” (from course materials):  
+1. Clear main point  
+  2. Relevant examples  
+  3. Specific details (names, scenarios, outcomes)  
+  4. Logical order   
+
+
+#### Step 2: Guided Outline Building  
+#### 2.1 Distribute Fill-In Outline Template  
+
+| Section          | Student’s Content                                                                 |
+|------------------|-----------------------------------------------------------------------------------|
+| **Thesis (Main Point)** | “AI shapes my college learning in three unexpected ways: [X], [Y], [Z].”  <br> (e.g., X=accessibility tool, Y=creative collaborator, Z=critical thinking prompt) |
+| **Body Para 1**  | - **Topic Sentence**: [AI Use X] + [how it enhances learning] <br> - **Explain**: Explain how such use happens <br> - **Example**: Tool name + scenario (e.g., “My phone’s ** Live Transcribe…”) <br> - **Detail**: How it works (e.g., “turns lectures into searchable text”) <br> - **Outcome**: Learning benefit (e.g., “I never miss key points”) |
+| **Body Para 2**  | - **Topic Sentence**: [AI Use Y] + [how it enhances learning] <br> - **Explain** <br> - **Example** <br> - **Detail** <br> - **Outcome** |
+| **Conclusion**   | Restate thesis + final comment (e.g., “AI is a flexible learning partner, not just a homework helper”) |
+
+#### 2.2 Pair Collaboration 
+- Work in pairs to:  
+1. Finalize 2 “unexpected AI uses” (avoid homework help, e.g., “AI helps brainstorm presentation ideas”).  
+2. Fill in the template with specific details (tool names, personal scenarios).  
+
+
+
+#### Step 3: Body Paragraph Drafting  
+#### 3.1 Share Course-Aligned Model Paragraph  
+Project a sample body paragraph (from course materials ) to demonstrate structure:  
+
+> “AI acts as an accessibility tool that adapts English-related lectures to my needs as an English major. For English majors in China, our biggest barrier to following specialized lectures often lies in two layers: adapting to native professors’ accents and quickly grasping discipline-specific terms—both of which make it easy to miss key content even when we’re focused, so an accessibility tool that addresses these two pain points directly fills a critical learning gap. My phone’s Live Transcribe tool turns my British Literature professor’s fast-paced lectures—filled with references to Shakespearean plays and 19th-century poetic devices—into searchable text. Last week, when I struggled to catch the nuance of her explanation about ‘dramatic irony in Hamlet’ amid her quick delivery, I could jump directly to the line ‘Dramatic irony lies in the audience knowing Claudius’s crime while Hamlet feigns madness’ in the transcript—something I couldn’t do with handwritten notes (I often missed key literary terms when scribbling in a hurry). This tool is critical for my learning: as a Chinese student still adapting to native English speakers’ accents, it lets me review specialized terms (like ‘iambic pentameter’ or ‘stream of consciousness’) and clarify unclear explanations without interrupting the professor mid-lecture.”
+> 
+
+- Point out how it hits all “Four Basics”:  
+  - Clear topic sentence  
+  - Relevant example (Google Live Transcribe)  
+  - Specific details (scenario, tool function)  
+  - Logical flow (example→detail→outcome)   
+
+#### 3.2 Independent Drafting 
+- Draft **Body Paragraph 1** (their strongest AI example).  
+- **Help Desk**: Offer support for:  
+  - Making details specific (e.g., “Instead of ‘AI helps with art projects,’ write ‘*** generated sketches of Van Gogh’s work reimagined as campus scenes’”).  
+  - Using transitions from course materials: “For example,” “Specifically,” “As a result” .  
+
+#### 3.3 Peer Check  
+Students swap drafts with a partner and use this checklist (from course peer-review guidelines ):  
+1. ✅ Does the paragraph include all 4 “Four Basics” elements?  
+2. ✅ Is the AI use “unexpected” (not homework help)?  
+
+#### Step 4: Body Paragraph Peer Feedback   
+#### 4.1 Structured Feedback  
+Return peer drafts and use the course’s “Quick Peer-Check” checklist :  
+- “Does the example clearly show *how* AI enhances learning (not just what AI does)?”  
+- “Are there specific details (tool name, scenario, outcome) that make it vivid?”  
+
+#### 4.2 Revise 
+Revise their Body Paragraph 1 based on feedback.  
+
+
+#### Step 5: Body Paragraph 2 Drafting  
+
+
+
+
+# Session 2: Intro, Conclusion & Polishing   
+
+#### Step 1: Introductory Paragraph Drafting  
+#### 1.1 Teach Course Intro Structure  
+
+| Intro Part       | What to Do (With Examples)                                                                 |
+|------------------|-------------------------------------------------------------------------------------------|
+| **Hook (1-2 sentences)** | Use a course-approved hook type (mini-anecdote, statistic, description): <br> - Mini-anecdote: “Last semester, I missed a week of calculus due to the flu—and AI closed the gap without doing my homework.” |
+| **Bridge (1 sentence)**  | Connect hook to topic (name “AI” + “unexpected learning uses”): <br> - “That experience made me realize AI has hidden roles in my daily learning.” |
+| **Background (1 sentence)** | Set scope (address overused “homework” stereotype): <br> - “While most students see AI as a homework shortcut, it offers far more nuanced support for college studies.” |
+| **Thesis (1 sentence)**  | State main point + 3 preview points (from outline): <br> - “AI shapes my college learning in three unexpected ways: as an accessibility tool for lectures, a creative spark for projects, and a prompt to clarify my learning goals.” |
+
+#### 1.2 Guided Drafting   
+- Draft their intro using the structure above.  
+- **Hook Prompts**:  
+  - Description: “At 11 p.m., I’m not using ChatGPT to write essays—I’m using it to ask follow-up questions about my physics lab.”  
+  - Statistic: “A 2024 campus survey found 68% of students use AI for learning beyond homework—but few talk about it.”  
+
+#### 1.3 Thesis Check  
+Theses should be:  
+- Specific (name AI uses, not just “AI helps learning”) .  
+- Measurable (use verbs like “adapts,” “sparks,” “clarifies” instead of “helps”) .  
+
+
+#### Step 2: Conclusion Paragraph Drafting 
+#### 2.1 Teach Course Conclusion Moves  
+Conclusion guidelines :  
+1. **Restate Thesis** (paraphrase, don’t repeat):  
+   - “AI isn’t just a quick fix for homework—it’s a versatile tool that supports accessibility, creativity, and critical thinking in my studies.”  
+2. **Final Comment** (add a broader implication: reflection, recommendation, or prediction):  
+   - “By noticing these unexpected AI uses, we can make technology work *with* us, not just for us.”  
+
+### 2.2 Independent Drafting   
+- Draft your conclusion.  
+- **Reminder**: “Avoid new examples—your conclusion should wrap up, not introduce new ideas” .  
+
+
+#### Step 3: Key Sentence Polishing 
+#### 3.1 Polish Topic Sentences & Thesis  
+  - Topic sentences: Start with the AI use + controlling idea (e.g., “AI acts as a creative collaborator that refines my project ideas”).  
+  - Thesis: Ensure it previews 3 specific AI uses (no vague claims like “AI has many unexpected uses”).  
+
+#### 3.2 Add Transitions  
+- Between body paragraphs: “First,” “Second,” “Finally”  
+- Within paragraphs: “For example,” “Specifically,” “As a result”  
+- Students add 1-2 transitions to improve flow.  
+
+
+#### Step 4: Wrap-Up & Homework  
+#### 4.1 Share Out  
+Ask 1-2 students to read their thesis + 1 body paragraph (positive reinforcement).  
+
+#### 4.2 Homework 
+- **Task**: Polish the full essay (intro + 2 body paras + conclusion, 400-500 words) and submit. Attach your outline.  
+- **Revision Tool**: Use the course’s “Four Basics Checklist”  to finalize:  
+  1. Clear main point/thesis  
+  2. 3 relevant, unexpected examples  
+  3. Specific details per example  
+  4. Logical order (intro → body → conclusion)  
+
+
