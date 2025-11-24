@@ -58,22 +58,22 @@ copyright = "Zhang Jun"
 [[menu.main]]
   name = "Persuasion"
   url  = "/persuasion/"
-  weight = 9
+  weight = 11
 
 [[menu.main]]
   name = "Types of Arguments"
   url  = "/typesofarguments/"
-  weight = 10
+  weight = 9
 
 [[menu.main]]
   name = "Fallacies"
   url  = "/fallacies/"
-  weight = 11
+  weight = 12
 
 [[menu.main]]
   name = "Counter-Arguments"
   url  = "/counterarguments/"
-  weight = 12
+  weight = 10
 
 
 
