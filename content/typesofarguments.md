@@ -20,6 +20,20 @@ By the end of this session, you will be able to:
 
 ### Introduction to Toulmin Argument
 
+#### Example 1: Everyday Context - Health & Lifestyle
+
+**Topic:** The health benefits of a morning walk.
+
+For most people, a daily 30-minute morning walk is one of the most beneficial habits for overall health. This is supported by studies from the American Heart Association which show that regular brisk walking can reduce the risk of heart disease by up to 20%, improve mood by releasing endorphins, and help maintain a healthy weight. The logic here is that any activity which significantly lowers the risk of chronic disease, improves mental well-being, and aids weight management is inherently beneficial for overall health. This connection is well-established; medical reviews consistently categorize walking as a foundational aerobic exercise, with a Harvard Medical School publication noting it provides cardiovascular benefits comparable to more intense exercises for the general population. It's important to note that this holds true for most people, though individuals with specific mobility issues or health conditions should consult a doctor. While some argue that they don't have time for a daily walk, it's worth noting that even short, 10-minute walks can provide benefits and the time can be incorporated into a commute or a lunch break, making it a highly adaptable practice.
+
+### Example 2: Academic Context - Education Policy
+
+**Topic:** The integration of AI tools in university education.
+
+Universities should actively integrate AI literacy and tools like ChatGPT into their curricula, rather than banning them. The evidence for this is compelling: a 2024 EDUCAUSE study found that over 70% of employers now expect graduates to have proficiency with AI-assisted tools, and research from Stanford showed that students using AI for brainstorming produced more creatively diverse projects. This evidence matters because preparing students for the modern workforce and enhancing their creative and problem-solving capabilities are core functions of a university education. This point is reinforced by major industry reports, such as the World Economic Forum's "Future of Jobs Report," which consistently identifies AI and big data as key skills for future employment, showing that universities fulfill their mission by fostering these skills. This integration should be done thoughtfully, primarily in contexts where critical thinking and ethical use are emphasized, such as in writing and research courses. Although critics argue that AI facilitates plagiarism and reduces original thought, a policy of integration allows instructors to teach students to use AI as a collaborative tool—citing it appropriately and using it to augment human creativity—which is a more realistic and valuable skill than simply avoiding the technology.
+
+
+
 #### What Is the Toulmin Structure?
 
 Developed by philosopher Stephen Toulmin, this framework is a practical, evidence-driven model for building arguments. It's excellent for:
