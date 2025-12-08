@@ -155,3 +155,64 @@ Write a paragraph using the Toulmin structure for the topic:
 1. Include all 6 Toulmin elements.  
 2. Use 1 credible source for grounds/backing (e.g., a study or expert quote).  
 3. Label each element (e.g., [Claim], [Grounds]) in your submission.  
+
+
+
+
+
+
+---
+
+
+
+
+# 🤝 Rogerian Argument — Preview
+
+> A Rogerian argument seeks **common ground**. You show you understand the other side, name where it makes sense, then present your view and propose a **mutually beneficial** solution.
+
+---
+
+## 🎯 Learning Outcomes
+By the end of this unit, you should be able to:
+- Distinguish **Rogerian** vs **Aristotelian** (classical) argument.
+- Use the **three objectives**: understand the audience, validate their context, build shared values.
+- Draft a Rogerian paragraph using the **six-move structure**.
+- Write **empathetic, objective** prose that aims for a **middle ground** solution.
+
+---
+
+## 1) What is a Rogerian Argument?
+- A **collaborative, non-confrontational** approach to argument.
+- Goal: **understanding + compromise**, not “defeat the opponent.”
+
+### Aristotelian vs Rogerian (at a glance)
+| Aspect | Aristotelian (Classical) | Rogerian |
+|---|---|---|
+| Goal | Convince / win | Find **middle ground** |
+| Tone | Debating, rebuttal | **Empathetic, objective** |
+| Treatment of other side | Refute | **Validate** where it makes sense |
+| Focus | Your claim + proof | **Shared values**, workable **solution** |
+
+---
+
+## 2) The Three Objectives (weave them throughout)
+1. **Show the audience is understood**  
+   *Ex:* “Many instructors worry that devices reduce attention and in-person interaction.”
+2. **State the context where their view is valid**  
+   *Ex:* “In lecture-heavy classes, multitasking leads to weaker comprehension.”
+3. **Build rapport via shared values**  
+   *Ex:* “Both instructors and students want focused, productive writing classes.”
+
+> Keep these running through the paragraph—**not** in a rigid order.
+
+---
+
+## 3) The Six Moves (structure map)
+
+```text
+1) Introduction (Problem + Shared Goal)
+2) Opposing Position (explain without bias)
+3) Context for Opposing Position (validate its merits)
+4) Your Position (introduce objectively)
+5) Context for Your Position (show its validity)
+6) Benefits of Compromise (middle ground + mutual gain)
