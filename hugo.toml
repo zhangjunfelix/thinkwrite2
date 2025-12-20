@@ -75,7 +75,10 @@ copyright = "Zhang Jun"
   url  = "/counterarguments/"
   weight = 10
 
-
+[[menu.main]]
+  name = "Finalpractice"
+  url  = "/finalpractice/"
+  weight = 13
 
 
 [module]
