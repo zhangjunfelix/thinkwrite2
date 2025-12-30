@@ -66,5 +66,25 @@ Write thoughtfully, argue fairly, and use examples that make sense.
 
 ---
 
-## 💡 Submission
-Submit your draft. 
+Title:
+
+Introductory paragraph
+It’s common for students to use generative AI tools in college writing courses. [controversy] However, it has been largely a controversial issue as it generates considerable disagreements among students and teachers. Some people believe that such tools are detrimental to students’ development of writing abilities, while others … [Thesis] in my opinion, …
+
+
+Recent years have seen a exponential development of various generative artificial intelligence (AI) tools, such as D, D, and C, which has significantly impacted our society in almost every aspect. Such impact has been witnessed in higher education, especially in language-related displines. Along with these tools’ powerful capabilities of producing texts in different language, students have used these tools to assist their writing. However, the use of these tools remains largely controversial. [Thesis] Althoug/while some people believe …, it is my position that we should incorporate these AI tools in college writing courses+ preview.
+
+
+BP#1
+First, these AI tools can help student generate ideas by providing inspirations. Quite often, students who learn foreign languages find it challenging to obtain relevant and substantial ideas in their writing. AI tools, built on language language models (LLMs), could effectively address this challenge. As we all know, LLMs are enormous banks of human knowledge in written texts and can be used as sources of information to answer questions. Therefore, AI tools in the form of chatbots can provide useful information when students interact with them through well-engineered prompts. Of course, students should be guarded against misinformation or plainly wrong information as these tools are known to hallucinate. 
+
+Counterargument + rebuttal
+
+TS: counter-argument + weaknesses 
+Although some people argue the disadvantages outweigh its benefit, such posoitions may not be well supported/invalid/weak. 
+
+
+NAME: it is often cited that AI tools …
+EXPLAIN
+SUPPORT
+CONCLUDE

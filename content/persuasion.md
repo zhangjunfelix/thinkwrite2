@@ -6,16 +6,7 @@ title = 'Modes of Persuasion'
 
 
 
-+++
-date = '2025-09-05T13:56:55+08:00'
-draft = false
-title = 'Modes of Persuasion'
-+++
-
-
-
 # Modes of Persuasion: Ethos, Pathos, Logos  
-*Foundations of Persuasive Writing & Speaking — Backed by Classical Theory & Real-World Impact*  
 
 
 ## 🎯 Learning Outcomes  
