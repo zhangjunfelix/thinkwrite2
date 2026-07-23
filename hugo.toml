@@ -1,85 +1,82 @@
-baseURL = "https://zjpsycholin.github.io/thinkwrite2/"
+baseURL = "https://zhangjunfelix.github.io/thinkwrite2/"
 languageCode = "en-us"
 title = "Critical Thinking & English Writing II"
 copyright = "Zhang Jun"
 
 [params]
-  mode    = "auto"     # light/dark/auto
+  mode = "auto"
   subtitle = "Argumentation • Critical Thinking • Exposition"
   mathjax = false
-  katex   = false
-  useCDN  = false
-
+  katex = false
+  useCDN = false
   customCSS = ["css/custom.css"]
 
+# Top navigation
 
-# Top nav
 [[menu.main]]
   name = "Home"
-  url  = "/"
+  url = ""
   weight = 1
 
 [[menu.main]]
   name = "Syllabus"
-  url  = "/syllabus/"
+  url = "syllabus/"
   weight = 2
 
 [[menu.main]]
   name = "Intro"
-  url  = "/intro/"
+  url = "intro/"
   weight = 3
 
 [[menu.main]]
   name = "Critical Thinking"
-  url  = "/criticalthinking/"
+  url = "criticalthinking/"
   weight = 4
 
 [[menu.main]]
   name = "Paragraph Writing"
-  url  = "/paragraphwriting/"
+  url = "paragraphwriting/"
   weight = 5
 
 [[menu.main]]
   name = "Exposition"
-  url  = "/exposition/"
+  url = "exposition/"
   weight = 6
 
 [[menu.main]]
   name = "Argumentation Intro"
-  url  = "/argumentationintro/"
+  url = "argumentationintro/"
   weight = 7
 
 [[menu.main]]
-  name = "Argumentationskills"
-  url  = "/argumentationskills/"
+  name = "Argumentation Skills"
+  url = "argumentationskills/"
   weight = 8
-
-
-[[menu.main]]
-  name = "Persuasion"
-  url  = "/persuasion/"
-  weight = 11
 
 [[menu.main]]
   name = "Types of Arguments"
-  url  = "/typesofarguments/"
+  url = "typesofarguments/"
   weight = 9
 
 [[menu.main]]
-  name = "Fallacies"
-  url  = "/fallacies/"
-  weight = 12
-
-[[menu.main]]
   name = "Counter-Arguments"
-  url  = "/counterarguments/"
+  url = "counterarguments/"
   weight = 10
 
 [[menu.main]]
-  name = "Finalpractice"
-  url  = "/finalpractice/"
-  weight = 13
+  name = "Persuasion"
+  url = "persuasion/"
+  weight = 11
 
+[[menu.main]]
+  name = "Fallacies"
+  url = "fallacies/"
+  weight = 12
+
+[[menu.main]]
+  name = "Final Practice"
+  url = "finalpractice/"
+  weight = 13
 
 [module]
   [[module.imports]]
@@ -89,7 +86,5 @@ copyright = "Zhang Jun"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-# You can also silence the log if you like:
+
 ignoreLogs = ['warning-goldmark-raw-html']
-
-
