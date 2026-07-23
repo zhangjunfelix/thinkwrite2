@@ -13,69 +13,71 @@ copyright = "Zhang Jun"
 
 # Top navigation
 
+# Top navigation
+
 [[menu.main]]
   name = "Home"
-  url = ""
+  pageRef = "/"
   weight = 1
 
 [[menu.main]]
   name = "Syllabus"
-  url = "syllabus/"
+  pageRef = "/syllabus"
   weight = 2
 
 [[menu.main]]
   name = "Intro"
-  url = "intro/"
+  pageRef = "/intro"
   weight = 3
 
 [[menu.main]]
   name = "Critical Thinking"
-  url = "criticalthinking/"
+  pageRef = "/criticalthinking"
   weight = 4
 
 [[menu.main]]
   name = "Paragraph Writing"
-  url = "paragraphwriting/"
+  pageRef = "/paragraphwriting"
   weight = 5
 
 [[menu.main]]
   name = "Exposition"
-  url = "exposition/"
+  pageRef = "/exposition"
   weight = 6
 
 [[menu.main]]
   name = "Argumentation Intro"
-  url = "argumentationintro/"
+  pageRef = "/argumentationintro"
   weight = 7
 
 [[menu.main]]
   name = "Argumentation Skills"
-  url = "argumentationskills/"
+  pageRef = "/argumentationskills"
   weight = 8
 
 [[menu.main]]
   name = "Types of Arguments"
-  url = "typesofarguments/"
+  pageRef = "/typesofarguments"
   weight = 9
 
 [[menu.main]]
   name = "Counter-Arguments"
-  url = "counterarguments/"
+  pageRef = "/counterarguments"
   weight = 10
 
 [[menu.main]]
   name = "Persuasion"
-  url = "persuasion/"
+  pageRef = "/persuasion"
   weight = 11
 
 [[menu.main]]
   name = "Fallacies"
-  url = "fallacies/"
+  pageRef = "/fallacies"
   weight = 12
 
 [[menu.main]]
   name = "Final Practice"
-  url = "finalpractice/"
+  pageRef = "/finalpractice"
   weight = 13
 
 [module]
