@@ -51,28 +51,28 @@ copyright = "Zhang Jun"
   weight = 7
 
 [[menu.main]]
+  name = "Persuasion"
+  pageRef = "/persuasion"
+  weight = 8
+
+[[menu.main]]
   name = "Argumentation Skills"
   pageRef = "/argumentationskills"
-  weight = 8
+  weight = 9
 
 [[menu.main]]
   name = "Types of Arguments"
   pageRef = "/typesofarguments"
-  weight = 9
-
-[[menu.main]]
-  name = "Counter-Arguments"
-  pageRef = "/counterarguments"
   weight = 10
-
-[[menu.main]]
-  name = "Persuasion"
-  pageRef = "/persuasion"
-  weight = 11
 
 [[menu.main]]
   name = "Fallacies"
   pageRef = "/fallacies"
+  weight = 11
+
+[[menu.main]]
+  name = "Counter-Arguments"
+  pageRef = "/counterarguments"
   weight = 12
 
 [[menu.main]]
