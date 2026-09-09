@@ -115,26 +115,30 @@ You’re already practicing the core moves of argumentation: **claim → reason 
 
 ---
 
-
 ## 📝 4) Diagnostic Writing — *Writing, Me, and AI* (150–200 words)
-**Prompt**  
-> *Describe your writing experience and explain your view on writing in the age of AI.*  
-> Include:  
-> 1) **One formative writing experience** (what happened; what you learned).  
-> 2) **Your current use (or non-use) of AI tools** (a concrete example).  
-> 3) A clear **claim** about why learning to write is (or is not) still essential.  
-> 4) **Two reasons** supporting your claim **and** **one counter-point + brief response**.  
-> 5) **One goal** you set for yourself in this course (specific and measurable).
 
-**Suggested structure**  
-- **Opening (2–3 sentences):** your experience and claim.  
-- **Body (5–7 sentences):** two reasons with a concrete example; one counter-point + response.  
-- **Closing (1–2 sentences):** your course goal.
+**Prompt**
 
-**Tone & integrity**  
+> *Explain your view on writing in the age of AI.*
+>
+> Include:
+> 1) A clear **claim** about why learning to write is (or is not) still essential in the age of AI.
+> 2) **Two reasons** supporting your claim **and** **one counter-point + brief response**.
+> 3) **One goal** you set for yourself in this course (specific and measurable).
+
+**Suggested structure**
+
+| Section | Content |
+|---------|---------|
+| **Opening (2–3 sentences)** | Your claim |
+| **Body (5–7 sentences)** | Two reasons with concrete examples; one counter-point + response |
+| **Closing (1–2 sentences)** | Your course goal |
+
+**Tone & integrity**
+
 Write in **your own voice**. If you mention facts or sources, summarize them in your words.
 
----
+----
 
 ## ✅ Next Steps
 - Submit the diagnostic piece by the end of **Week 1**.  
